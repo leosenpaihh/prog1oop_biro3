@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/a_fura_madar/a_fura_madar.iml" filepath="$PROJECT_DIR$/a_fura_madar/a_fura_madar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/a_titokzatos_fa/a_titokzatos_fa.iml" filepath="$PROJECT_DIR$/a_titokzatos_fa/a_titokzatos_fa.iml" />
+      <module fileurl="file://$PROJECT_DIR$/az_uldozes/az_uldozes.iml" filepath="$PROJECT_DIR$/az_uldozes/az_uldozes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/famaszas/famaszas.iml" filepath="$PROJECT_DIR$/famaszas/famaszas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/haziko/haziko.iml" filepath="$PROJECT_DIR$/haziko/haziko.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/prog1oop_biro3.iml" filepath="$PROJECT_DIR$/.idea/prog1oop_biro3.iml" />
+    </modules>
+  </component>
+</project>
